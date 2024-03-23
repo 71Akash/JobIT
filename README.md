@@ -2,6 +2,8 @@
 
 <img width="1322" alt="Screenshot 2024-02-09 at 6 37 05 PM" src="https://github.com/DevTaehong/JobIt/assets/71358207/ff6505d0-ecd2-46f2-955b-d9dae6dc4580">
 
+Live Link : https://jobit-one.vercel.app/
+
 ## 📝 Description
 JobIt provides detailed information about job listings, including company details, job requirements, and responsibilities. Moreover, users can explore job openings from specific companies and other similar companies based on their search criteria.
 The application also has a salary estimate feature, enabling users to view an estimated salary range for job postings. User convenience has also been considered, with the option to switch between light and dark themes.
